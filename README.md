@@ -2,6 +2,8 @@
 
 > **An arcade-style engineering playground for learning LabVIEW concepts through physics, programming, and delightfully questionable academic decisions.**
 
+![](https://github.com/lucylow/Labview-Whack-a-Bald-Physics-Professor/blob/main/Whack-a-Professor%20LabVIEW%20Logo.png?raw=true)
+
 ![](https://github.com/lucylow/Labview-Whack-a-Bald-Physics-Professor/blob/main/Screenshot%20(2015).png?raw=true)
 
 Whack-a-Professor combines a fast reaction game with a hands-on learning environment for college engineering students. The arcade layer turns timing, accuracy, state, and feedback into a playful challenge. The Learning Lab connects those ideas to LabVIEW programming concepts, instrumentation, signal processing, debugging, and control systems through guided, inspectable browser simulations.
