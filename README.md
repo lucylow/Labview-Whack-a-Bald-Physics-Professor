@@ -1,4 +1,4 @@
-# Whack-a-Professor
+# LABVIEW: Whack-a-Professor
 
 > **An arcade-style engineering playground for learning LabVIEW concepts through physics, programming, and delightfully questionable academic decisions.**
 
